@@ -1,5 +1,5 @@
 
-Hi 👋, I'm Sobhan
+<h1>Hi 👋, I'm Sobhan</h1>
 
 ## My Skills :computer:
 
@@ -72,21 +72,7 @@ Hi 👋, I'm Sobhan
 
 <hr>
 
-## Currently Learning :beginner:
 
-- **Web Development**
-
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.svgrepo.com/show/376337/node-js.svg"> 
-</td>
-
-</tr>
-
-</tbody>
-</table>
 
 </tbody>
 </table>
